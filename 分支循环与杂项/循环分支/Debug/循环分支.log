@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (循环分支.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  杂项.c
+  循环分支.vcxproj -> F:\码\视频课\循环分支\Debug\分支与循环初探.exe
