@@ -1,0 +1,6 @@
+﻿  指针.c
+f:\码\视频课\关键字2\关键字2\指针.c(22): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'size_t'
+  f:\码\视频课\关键字2\关键字2\指针.c(22): note: consider using '%zd' in the format string
+  define.c
+  正在生成代码...
+  关键字2.vcxproj -> F:\码\视频课\关键字2\x64\Debug\关键字2.exe
